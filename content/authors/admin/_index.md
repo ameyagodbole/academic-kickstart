@@ -6,7 +6,7 @@ title: Ameya Godbole
 superuser: true
 
 # Role/position
-role: Graduate student in Computer Science
+role: Research Fellow in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.cics.umass.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence in general but most recently, I am focused on question answering.
+bio: My research interests include artificial intelligence in general but mostly I am focused on question answering.
 
 interests:
 - Artificial Intelligence
@@ -55,13 +55,13 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv_short.pdf
+  link: files/ameya_godbole_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,8 +70,10 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a second-year graduate studying **Computer Science** at the **University of Massachusetts (UMass), Amherst**. I completed my B.Tech. in Electronics and Communication Engineering (with a minor in Computer Science and Engineering) from IIT Guwahati in May 2018.
+I am a research fellow with the **Information Extraction and Synthesis Laboratory (IESL)** at the **University of Massachusetts (UMass), Amherst**. Before joining the lab, I obtained a Master's degree in Computer Science from UMass and a B.Tech. in Electronics and Communication Engineering (with a minor in Computer Science and Engineering) from **IIT Guwahati** before that.
 
-I developed an interest in Machine Learning and Artificial Intelligence during the sophomore year of my undergraduate degree. Consequently, I tried to understand the theory of machine learning as well as apply the same. At the time, I attempted to grasp the theory through extracurricular courses, majorly on Coursera, MIT Opencourseware and Stanford Online. I am making the most of my graduate courses to explore several avenues of machine learning. I am fortunate to be working with fellow graduates at the **Information Extraction and Synthesis Laboratory (IESL)** at UMass.
+I am interested in question-answering (QA) systems. I have worked on retrieval for open-domain QA and have made forays into knowledge base completion which is an important component of QA on structured data. I am fascinated by the research efforts into interpreting and debugging black-box, single-pass QA systems and parallel work into systems that explicitly decompose complex questions. I am eager to see where the two thought processes meet.
+
+As a research fellow, I contribute to IESL's efforts into OpenReview ([reviewer matching](https://github.com/openreview/openreview-matcher), [paper-reviewer affinity](https://github.com/openreview/openreview-expertise)), and IESL's collaboration with the Chan Zuckerberg Initiative where I am working on affiliation disambiguation. I am fortunate to have worked with and to be working with awesome lab members at IESL.
 
 I sporadically blog (I mostly edit and proof-read) on [Medium](https://medium.com/inveterate-learner).

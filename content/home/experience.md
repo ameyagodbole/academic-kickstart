@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Fellow"
+  company = "Information Extraction and Synthesis Laboratory (IESL)"
+  company_url = "http://www.iesl.cs.umass.edu/"
+  location = "Massachusetts"
+  date_start = "2020-06-29"
+  date_end = ""
+  description = """
+  The role allows me to pursue projects with the IESL lab members. In addition, I contribute to OpenReview, the open-access, open-discussion conference platform. I also work with the Chan Zuckerberg Initiative to apply IESL's lab output to CZI's systems and databases.
+  
+  Tasks:
+
+  * Case-based reasoning for knowledge base completion and question answering.
+  * Contributor to [OpenReview Expertise](https://github.com/openreview/openreview-expertise) which generates affinity scores between submitted papers and available reviewers. I incorporated a model which computes similarity between the reviewers' past body of work and the new conference submissions.
+  * Contributor to [OpenReview Matcher](https://github.com/openreview/openreview-matcher) which solves an optimization problem to assign papers for review given pre-computed affinity scores. I added features to the "fair" matching algorithms.
+  * Contributor to the affiliation disambiguation system for [Meta-CZI](https://www.meta.org/).
+  """
+
+[[experience]]
   title = "Machine Learning Intern"
   company = "SRI International"
   company_url = "https://www.sri.com/"

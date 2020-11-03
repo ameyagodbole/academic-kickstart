@@ -4,7 +4,7 @@ date = 2018-02-28
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ameya Godbole","Spoorthy Bhat","Prithwijit Guha"]
+authors = ["admin","Spoorthy Bhat","Prithwijit Guha"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Ameya Godbole","Spoorthy Bhat","Prithwijit Guha"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "At *Twenty Fourth National Conference on Communications (2018)*"
-publication_short = "At *NCC 2018*"
+publication = "***Twenty Fourth National Conference on Communications (2018)***"
+publication_short = "***NCC 2018***"
 
 # Abstract and optional shortened version.
 abstract = "Decision trees are discriminative classifiers that hierarchically partition the input space to achieve regions containing instances having uniform class label. Existing works in this area have mostly focused on C4.5 trees that learn axis aligned partitions. On the other hand, neural trees learn oblique partitions from data and use lesser number of decision nodes hosting perceptrons. However, these perceptrons are susceptible to data imbalances. This motivated us to propose a progressively balanced neural tree where training dataset are balanced prior to perceptron learning. The second contribution is the optimization of the decision function with respect to entropy impurity based objective functions. This formulation also allows a parent node to have more than two child nodes. The proposed algorithm is benchmarked on ten standard datasets against three baseline multi-class classification algorithms."
