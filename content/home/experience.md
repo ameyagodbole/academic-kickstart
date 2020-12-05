@@ -30,9 +30,9 @@ date_format = "Jan 2006"
   Tasks:
 
   * Case-based reasoning for knowledge base completion and question answering.
-  * Contributor to [OpenReview Expertise](https://github.com/openreview/openreview-expertise) which generates affinity scores between submitted papers and available reviewers. I incorporated a model which computes similarity between the reviewers' past body of work and the new conference submissions.
-  * Contributor to [OpenReview Matcher](https://github.com/openreview/openreview-matcher) which solves an optimization problem to assign papers for review given pre-computed affinity scores. I added features to the "fair" matching algorithms.
-  * Contributor to the affiliation disambiguation system for [Meta-CZI](https://www.meta.org/).
+  * Incorporated a language model based system trained on citation and authorship graphs into [OpenReview Expertise](https://github.com/openreview/openreview-expertise) which generates affinity scores between submitted papers and available reviewers. This system generates affinity scores between submitted papers and available reviewers' past body of work.
+  * Added features to the fairness-constrained matching algorithms of [OpenReview Matcher](https://github.com/openreview/openreview-matcher), which solve an optimization problem to assign papers for review given pre-computed affinity scores. The "fair" matching algorithms ensure that the reviewers assigned to every submission possess a (combined) minimum level of familiarity with the research area.
+  * Currently working to scale an affiliation disambiguation system to **400K+** target affiliation labels as part of IESL's collaboration with the [Meta-CZI](https://www.meta.org/).
   """
 
 [[experience]]

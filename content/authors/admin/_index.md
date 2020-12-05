@@ -70,9 +70,13 @@ highlight_name: true
 # - Visitors
 ---
 
-I am a research fellow with the **Information Extraction and Synthesis Laboratory (IESL)** at the **University of Massachusetts (UMass), Amherst**. Before joining the lab, I obtained a Master's degree in Computer Science from UMass and a B.Tech. in Electronics and Communication Engineering (with a minor in Computer Science and Engineering) from **IIT Guwahati** before that.
+**I am actively applying to Ph.D. programs**
 
-I am interested in question-answering (QA) systems. I have worked on retrieval for open-domain QA and have made forays into knowledge base completion which is an important component of QA on structured data. I am fascinated by the research efforts into interpreting and debugging black-box, single-pass QA systems and parallel work into systems that explicitly decompose complex questions. I am eager to see where the two thought processes meet.
+I am a Research Fellow with the **Information Extraction and Synthesis Laboratory (IESL)** at the **University of Massachusetts (UMass), Amherst**. Before joining the lab, I obtained a Master's degree in Computer Science from UMass and a B.Tech. in Electronics and Communication Engineering (with a minor in Computer Science and Engineering) from **IIT Guwahati** prior to that.
+
+I am interested in research on **natural language processing (NLP)** systems that can reason over text and knowledge bases. I have worked on retrieval for open-domain QA and have made forays into knowledge base completion which is an important component of automated reasoning on structured data.
+
+<!-- I am interested in question-answering (QA) systems. I have worked on retrieval for open-domain QA and have made forays into knowledge base completion which is an important component of QA on structured data. I am fascinated by the research efforts into interpreting and debugging black-box, single-pass QA systems and parallel work into systems that explicitly decompose complex questions. I am eager to see where the two thought processes meet. -->
 
 As a research fellow, I contribute to IESL's efforts into OpenReview ([reviewer matching](https://github.com/openreview/openreview-matcher), [paper-reviewer affinity](https://github.com/openreview/openreview-expertise)), and IESL's collaboration with the Chan Zuckerberg Initiative where I am working on affiliation disambiguation. I am fortunate to have worked with and to be working with awesome lab members at IESL.
 
